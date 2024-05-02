@@ -1,0 +1,8 @@
+# @package _global_
+
+defaults:
+  - base
+  - /preset/datasets/db_effi
+  - /preset/models/model_effi
+  - /preset/lightning_modules/base
+  - _self_
