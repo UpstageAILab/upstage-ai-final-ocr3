@@ -292,6 +292,8 @@ Precision : 0.9825
 Recall : 0.9797
 Leaderboard : 2nd
 
+![alt text](img/leaderboard.png)
+
 ### Presentation
 
 <a href="https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/docs/pdf"> https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/docs/pdf</a>
