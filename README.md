@@ -161,7 +161,8 @@ WandB 를 이용한 실험 내용 공유
 │   ├── 1.png
 │   ├── 2.png
 │   ├── 3.png
-│   └── 4.png
+│   ├── 4.png
+│   └── leaderboard.png
 ├── notebooks
 │   ├── jsj
 │   │   ├── 01.ipynb
