@@ -59,7 +59,9 @@
 
 ### Overview
 
-- _Write competition information_
+<mark>Receipt Text Detection | 영수증 글자 검출</mark>
+
+영수증 사진에서 글자 위치를 추출하는 태스크를 수행합니다.
 
 ### Timeline
 
@@ -131,7 +133,31 @@ WandB 를 이용한 실험 내용 공유
 │   ├── predict.yaml
 │   ├── test.yaml
 │   └── train.yaml
+├── docs
+│   └── pdf
+│       └── ocr3.pdf
 ├── img
+│   ├── presentation
+│   │   ├── 1.jpg
+│   │   ├── 2.jpg
+│   │   ├── 3.jpg
+│   │   ├── 4.jpg
+│   │   ├── 5.jpg
+│   │   ├── 6.jpg
+│   │   ├── 7.jpg
+│   │   ├── 8.jpg
+│   │   ├── 9.jpg
+│   │   ├── 10.jpg
+│   │   ├── 11.jpg
+│   │   ├── 12.jpg
+│   │   ├── 13.jpg
+│   │   ├── 14.jpg
+│   │   ├── 15.jpg
+│   │   ├── 16.jpg
+│   │   ├── 17.jpg
+│   │   ├── 18.jpg
+│   │   ├── 19.jpg
+│   │   └── 20.jpg
 │   ├── 1.png
 │   ├── 2.png
 │   ├── 3.png
@@ -190,27 +216,6 @@ WandB 를 이용한 실험 내용 공유
 │       ├── convert_submission.py
 │       ├── ocr_utils.py
 │       └── __init__.py
-├── presentation
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   ├── 3.jpg
-│   ├── 4.jpg
-│   ├── 5.jpg
-│   ├── 6.jpg
-│   ├── 7.jpg
-│   ├── 8.jpg
-│   ├── 9.jpg
-│   ├── 10.jpg
-│   ├── 11.jpg
-│   ├── 12.jpg
-│   ├── 13.jpg
-│   ├── 14.jpg
-│   ├── 15.jpg
-│   ├── 16.jpg
-│   ├── 17.jpg
-│   ├── 18.jpg
-│   ├── 19.jpg
-│   └── 20.jpg
 ├── runners
 │   ├── predict.py
 │   ├── test.py
@@ -230,35 +235,35 @@ WandB 를 이용한 실험 내용 공유
 
 ### Dataset overview
 
-![alt text](presentation/4.jpg)
+![alt text](img/presentation/4.jpg)
 
 ### EDA
 
-![- ](presentation/5.jpg)
+![- ](img/presentation/5.jpg)
 
 ### Data Processing
 
 #### Data Augmentation
-![alt text](presentation/6.jpg)
-![alt text](presentation/9.jpg)
+![alt text](img/presentation/6.jpg)
+![alt text](img/presentation/9.jpg)
 
 #### Extra Data
-![alt text](presentation/7.jpg)
-![alt text](presentation/8.jpg)
+![alt text](img/presentation/7.jpg)
+![alt text](img/presentation/8.jpg)
 
 #### Post Processing by Code
-![alt text](presentation/12.jpg)
-![alt text](presentation/13.jpg)
-![alt text](presentation/14.jpg)
-![alt text](presentation/15.jpg)
-![alt text](presentation/16.jpg)
+![alt text](img/presentation/12.jpg)
+![alt text](img/presentation/13.jpg)
+![alt text](img/presentation/14.jpg)
+![alt text](img/presentation/15.jpg)
+![alt text](img/presentation/16.jpg)
 
 ## 4. Modeling
 
 ### Model descrition
 
-![alt text](presentation/10.jpg)
-![alt text](presentation/11.jpg)
+![alt text](img/presentation/10.jpg)
+![alt text](img/presentation/11.jpg)
 
 ### Modeling Process
 
@@ -289,13 +294,9 @@ Leaderboard :
 
 ### Presentation
 
-<a href="https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/presentation"> https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/presentation</a>
+<a href="https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/docs/pdf"> https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/docs/pdf</a>
 
 ## etc
-
-### Meeting Log
-
-- _Insert your meeting log link like Notion or Google Docs_
 
 ### Reference
 
