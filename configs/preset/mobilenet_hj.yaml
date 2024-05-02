@@ -1,0 +1,8 @@
+# @package _global_
+
+defaults:
+  - base
+  - /preset/datasets/db_mobilenet
+  - /preset/models/model_mobilenet
+  - /preset/lightning_modules/base
+  - _self_
