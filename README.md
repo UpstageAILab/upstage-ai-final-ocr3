@@ -289,7 +289,7 @@ Leaderboard :
 
 ### Presentation
 
-<a href="https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/presentation"> https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/notebooks</a>
+<a href="https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/presentation"> https://github.com/UpstageAILab/upstage-ai-final-ocr3/tree/main/presentation</a>
 
 ## etc
 
