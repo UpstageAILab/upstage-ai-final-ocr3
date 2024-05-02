@@ -225,7 +225,7 @@ WandB 를 이용한 실험 내용 공유
 │   │   ├── image_augraphing.py
 │   │   └── new_doc_transform.py
 │   ├── augraphy_sjh.ipynb
-│   └── offline_augmentation.py
+│   └── offline_augmentation_hj.py
 ├── README_baseline.md
 ├── README.md
 └── requirements.txt
