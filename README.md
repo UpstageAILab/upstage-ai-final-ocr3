@@ -1,4 +1,4 @@
-# Title (Please modify the title)
+# FastCampus OCR Model Contest
 ## Team
 
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
